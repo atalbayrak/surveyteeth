@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/surveyteeth/static/js/runtime~main.76f13134.js"
   },
   {
-    "revision": "c0715fb26bec3f6a8161",
-    "url": "/surveyteeth/static/js/main.303e8321.chunk.js"
+    "revision": "2559cf1a35c710a78cd1",
+    "url": "/surveyteeth/static/js/main.896a7d77.chunk.js"
   },
   {
     "revision": "f0aaeb5f57580bcd4fe1",
     "url": "/surveyteeth/static/js/2.73994dff.chunk.js"
   },
   {
-    "revision": "c0715fb26bec3f6a8161",
+    "revision": "2559cf1a35c710a78cd1",
     "url": "/surveyteeth/static/css/main.1204d284.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/surveyteeth/static/css/2.ab17fd5c.chunk.css"
   },
   {
-    "revision": "2ac75ac5ad3d5709ede81f0cced01899",
+    "revision": "620b083abbf5de32cc59707387b43cde",
     "url": "/surveyteeth/index.html"
   }
 ];
