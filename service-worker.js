@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/surveyteeth/precache-manifest.c3a567b1b56e13d1e0d5e6078c6aed47.js"
+  "/surveyteeth/precache-manifest.c741aba7640e6aa0f17607abb1913ab3.js"
 );
 
 workbox.clientsClaim();
